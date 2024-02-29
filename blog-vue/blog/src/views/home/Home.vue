@@ -5,7 +5,7 @@
       <div class="banner-container">
         <!-- 联系方式 -->
         <h1 class="blog-title animated zoomIn">
-          风丶宇的个人博客
+          Fei的个人博客
         </h1>
         <!-- 一言 -->
         <div class="blog-intro">
@@ -257,7 +257,7 @@ export default {
     },
     runTime() {
       var timeold =
-        new Date().getTime() - new Date("December 12,2019").getTime();
+        new Date().getTime() - new Date("February 21,2024").getTime();
       var msPerDay = 24 * 60 * 60 * 1000;
       var daysold = Math.floor(timeold / msPerDay);
       var str = "";

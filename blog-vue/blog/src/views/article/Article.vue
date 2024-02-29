@@ -74,7 +74,7 @@
       <div class="aritcle-copyright">
         <div>
           <span>文章作者：</span>
-          <a href="http://www.talkxj.com" target="_blank"> 风丶宇</a>
+          <a href="http://www.talkxj.com" target="_blank"> Fei</a>
         </div>
         <div>
           <span>文章链接：</span>

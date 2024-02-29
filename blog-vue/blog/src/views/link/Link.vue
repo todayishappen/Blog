@@ -33,10 +33,11 @@
         <v-icon color="blue">mdi-dots-horizontal-circle</v-icon> 添加友链
       </div>
       <blockquote>
-        <div>名称：风丶宇的个人博客</div>
+        <div>名称：Fei的个人博客</div>
         <div>简介：成事在人 谋事在天</div>
         <div>头像：https://www.static.talkxj.com/avatar/blogger.jpg</div>
       </blockquote>
+
       <div class="mt-5 mb-5">
         需要交换友链的可在下方留言💖
       </div>
