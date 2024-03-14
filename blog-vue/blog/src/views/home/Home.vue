@@ -16,16 +16,16 @@
           <a
             class="iconfont iconqq"
             target="_blank"
-            href="http://wpa.qq.com/msgrd?v=3&uin=1192176811&site=qq&menu=yes"
+            href="http://wpa.qq.com/msgrd?v=3&uin=1140569506&site=qq&menu=yes"
           />
           <a
             target="_blank"
-            href="https://github.com/X1192176811"
+            href="https://github.com/todayishappen"
             class="ml-5 mr-5 iconfont icongithub"
           />
           <a
             target="_blank"
-            href="https://gitee.com/feng_meiyu"
+            href="https://gitee.com/unitynet"
             class="iconfont icongitee-fill-round"
           />
         </div>
@@ -149,22 +149,22 @@
               <a
                 class="mr-5 iconfont iconqq"
                 target="_blank"
-                href="http://wpa.qq.com/msgrd?v=3&uin=1192176811&site=qq&menu=yes"
+                href="http://wpa.qq.com/msgrd?v=3&uin=1140569506&site=qq&menu=yes"
               />
               <a
                 target="_blank"
-                href="https://github.com/X1192176811"
+                href="https://github.com/todayishappen"
                 class="mr-5 iconfont icongithub"
               />
               <a
                 target="_blank"
-                href="https://gitee.com/feng_meiyu"
+                href="https://gitee.com/unitynet"
                 class="mr-5 iconfont icongitee-fill-round"
               />
               <a
                 class=" iconfont iconweibo"
                 target="_blank"
-                href="https://gitee.com/feng_meiyu"
+                href="https://gitee.com/unitynet"
               />
             </div>
           </v-card>

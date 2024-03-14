@@ -126,7 +126,7 @@ public class UserAuthServiceImpl extends ServiceImpl<UserAuthDao, UserAuth> impl
             code.append(random.nextInt(10));
         }
         SimpleMailMessage message = new SimpleMailMessage();
-        message.setFrom("1192176811@qq.com");
+        message.setFrom("1140569506@qq.com");
         message.setTo(username);
         message.setSubject("验证码");
         message.setText("您的验证码为 " + code.toString() + " 有效期15分钟，请不要告诉他人哦！");
